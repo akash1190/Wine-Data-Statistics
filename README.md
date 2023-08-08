@@ -7,6 +7,7 @@ Remember to replace the wineData array with your actual wine data.
 If you have any issues or further questions, feel free to ask!
 
 ## Getting Started
+   Files are in Master Branch 
    git clone https://github.com/akash1190/Wine-Data-Statistics.git
 
    cd Wine-Data-Statistics
@@ -15,7 +16,7 @@ If you have any issues or further questions, feel free to ask!
 
    yarn start
 
-   reate a pull request for 'master' on GitHub by visiting:
+   Create a pull request for 'master' on GitHub by visiting:
    https://github.com/akash1190/Wine-Data-Statistics/pull/new/master
 
 ### Prerequisitesadd
