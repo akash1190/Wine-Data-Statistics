@@ -1,10 +1,13 @@
-# Project Name
+# Wine Data Statistics
 
 the desired page rendered, showing the statistical measures for Flavanoids and Gamma in a tabular format as specified in the task description.
-
 Remember to replace the wineData array with your actual wine data.
-
 If you have any issues or further questions, feel free to ask!
+
+### Screenshot of table
+
+![winedata](https://github.com/akash1190/Wine-Data-Statistics/assets/38752437/84dc104d-ed72-439b-84b0-73fe4f724143)
+
 
 ## Getting Started
    Files are in Master Branch 
@@ -38,3 +41,6 @@ Before you begin, ensure you have met the following requirements:
    yarn install
 
    yarn start
+
+ 
+   
